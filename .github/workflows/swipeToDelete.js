@@ -1,5 +1,6 @@
 var flag = 0;
 var c=1;
+var d=0;
 /*Function which is called on the preshow of the main form 
 Function is creating toast .It is also declaring the 
 Callback for the scroll and swipe event .
